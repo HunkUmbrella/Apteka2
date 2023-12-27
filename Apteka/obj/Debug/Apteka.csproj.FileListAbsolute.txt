@@ -1,0 +1,76 @@
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.Authorization.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.Home.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.pdb
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.Registration.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\EntityFramework.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\EntityFramework.xml
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.csproj.CopyComplete
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.Info.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.Lekarstva.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka\Apteka\obj\Debug\Apteka.NalichieLekarstva.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\Apteka.exe
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\Apteka.pdb
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.xml
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.xml
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Authorization.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Home.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Info.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Lekarstva.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.NalichieLekarstva.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Registration.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Zaprosi.resources
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.CopyComplete
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.exe
+C:\Users\Sardor\Desktop\+mONEY\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.pdb
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\Apteka.exe
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\Apteka.pdb
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Authorization.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Home.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Info.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Lekarstva.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.NalichieLekarstva.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Registration.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.Zaprosi.resources
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.csproj.CopyComplete
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.exe
+C:\Users\User\Desktop\Vlad\Apteka V 2\Apteka\obj\Debug\Apteka.pdb
